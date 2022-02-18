@@ -15,7 +15,7 @@
 127.0.0.1 www.gameask.com
 127.0.0.1 www.sonsaur.com
 #update==================20.12.2021======================
-127.0.0.1 www.youtube.com youtube.com/* igroutka.ru/* pranx.com/* poki.com/* krunker.io/* 2020game.io/* dino-chrome.com/*
+0.0.0.0	www.youtube.com	youtube.com igroutka.ru/* pranx.com/* poki.com/* krunker.io/* 2020game.io/* dino-chrome.com/*
 #update==================17.02.2022======================
 0.0.0.0 poki.com  poki.com/**
 0.0.0.0 *poki.com  poki.com/**
